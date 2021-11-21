@@ -2,7 +2,7 @@
 
 ### - Implement Halton & Sobol sequences
 ### - Test vs MT19937 for SND transformation
-### - Variance comparison when pricing EU options
+### - Variance comparison when pricing EU options with Monte Carlo
 
 
 ## Results
