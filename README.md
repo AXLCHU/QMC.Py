@@ -5,7 +5,7 @@
 ### - Variance comparison when pricing EU options with Monte Carlo
 
 
-## Results
+
 
 ## QRNG vs PRNG
 
