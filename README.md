@@ -1,7 +1,7 @@
 # QMC.Py
 
 ### - Implement Halton & Sobol sequences
-### - Test vs MT19937 for SND transformation
+### - Test vs MT19937 for Standard Normal Distribution transformation
 ### - Variance comparison when pricing EU options with Monte Carlo
 
 
