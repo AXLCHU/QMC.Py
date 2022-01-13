@@ -21,3 +21,8 @@
 ![QMC_Py_4](https://user-images.githubusercontent.com/56386159/142758925-ce36c7a1-e6f6-4948-89c6-7b1569774a85.PNG)
 
 ![QMC_Py_5](https://user-images.githubusercontent.com/56386159/145717275-4e77dae3-6d4b-4327-b471-5050cf7074d1.PNG)
+
+
+## Ex: QMC price convergence
+
+![QMC_call_price_cvPNG](https://user-images.githubusercontent.com/56386159/149315082-a45df585-cd3a-438f-9e2d-5f3ab8990a76.PNG)
