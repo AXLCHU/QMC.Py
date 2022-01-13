@@ -22,7 +22,18 @@
 
 ![QMC_Py_5](https://user-images.githubusercontent.com/56386159/145717275-4e77dae3-6d4b-4327-b471-5050cf7074d1.PNG)
 
-
+##
 ## Ex: QMC price convergence
 
 ![QMC_call_price_cvPNG](https://user-images.githubusercontent.com/56386159/149315082-a45df585-cd3a-438f-9e2d-5f3ab8990a76.PNG)
+
+##
+## EU option pricing errors
+
+![QMC_price_error](https://user-images.githubusercontent.com/56386159/149315440-af45065f-22da-4b70-a2dc-f3c7caffb48c.PNG)
+
+##
+## Variance reduction
+
+![QMC_variance](https://user-images.githubusercontent.com/56386159/149315568-d22e5fe6-4f24-40a5-b0d9-01d382aab1a7.PNG)
+
