@@ -25,13 +25,15 @@
 
 
 ##
-## Ex: Price convergence - for GBM & randomized Halton & Sobol
+## EU option pricing with GBM & randomized Halton & Sobol
+##
+## Price convergence
 
 ![QMC_call_price_cvPNG](https://user-images.githubusercontent.com/56386159/149315082-a45df585-cd3a-438f-9e2d-5f3ab8990a76.PNG)
 
 
 ##
-## EU option pricing errors
+## Pricing errors
 
 ![QMC_price_error](https://user-images.githubusercontent.com/56386159/149315440-af45065f-22da-4b70-a2dc-f3c7caffb48c.PNG)
 
