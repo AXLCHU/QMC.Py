@@ -43,4 +43,4 @@
 ![QMC_variance](https://user-images.githubusercontent.com/56386159/149319812-92474670-2765-4e6c-978d-45336f89c329.PNG)
 
 ##
-
+## -> Higher speed of convergence/Variance reduction when using QRNG
