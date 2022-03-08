@@ -2,7 +2,7 @@
 
 - Implementation of Halton & Sobol sequences
 - Test vs MT19937 for Standard Normal Distribution transformation
-- Variance comparison when pricing EU options with Monte Carlo
+- Variance comparison when pricing EU options with MC vs QMC
 
 
 #
